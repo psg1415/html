@@ -50,5 +50,6 @@ span
 
 양식 태그
 <form>
+	데이터 입력
 	<input type="text"> -> 글
 </form>
